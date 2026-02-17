@@ -7,6 +7,7 @@ _by Karthik KK_
 1. [Introduction](#1-introduction)
 2. [Working with Large Language Models locally with Ollama](#2-working-with-large-language-models-locally-with-ollama)
 3. [Prompt Engineering - How to write better Prompt](#3-prompt-engineering---how-to-write-better-prompt)
+4. [Understanding and working with AI agents and MCP servers](#4-understanding-and-working-with-ai-agents-and-mcp-servers)
 
 ### 1. Introduction
 
@@ -71,3 +72,29 @@ _AI model is like a trained "Brain" that can make "Predictions" or generate cont
 #### 3a. Introduction to Prompt Engineering
 
 _Prompts are the instructions you give to AI to get what you want_
+
+### Good Prompt Structure
+
+- Role
+- Task
+- Context
+- Format
+- Constraints
+
+### Types of Prompts
+
+- Zero-shot prompt
+- One-shot prompt
+- Few-shot prompt
+- Role based prompt
+- Chain-of-thought prompt
+
+### 4. Understanding and working with AI agents and MCP servers
+
+#### 4a.a What are AI agents?
+
+_AI Agent is like the hand and leg of LLMS which can do operations on your machine/server, which LLMS cannot_
+
+#### 4b.a What is MCP?
+
+_Is a standard designed to help AI assistants work more effectively by connecting them to the systems and tools where relevant data resides_
